@@ -16,6 +16,11 @@ Based on the input, it either:
 Retrieves documents via RAG if detailed responses are needed.
 Accesses Wikipedia to provide summaries for general questions.
 
+### WorkFlow Graph
+
+![image](https://github.com/user-attachments/assets/b2f8c3ac-ebb3-4de3-962a-c7b986a251b1)
+
+
 ## Sample Outputs Genearated
 
 ### Output Genearated Through Retriever(AstraDB)
